@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=abubakarorakzai&theme=onedark" alt="trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=abubakarorakzai&theme=flat&column=7&margin-w=15" alt="trophies" />
     </a>
   </p>
 </div>
@@ -29,8 +29,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakarorakzai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarorakzai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakarorakzai&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarorakzai&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarorakzai&theme=tokyonight" alt="Streak Stats" />
 </div>
