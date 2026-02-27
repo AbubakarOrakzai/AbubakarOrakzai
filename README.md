@@ -3,12 +3,6 @@
   <h3>A passionate Computer Science Student</h3>
 
   <img src="https://komarev.com/ghpvc/?username=abubakarorakzai&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=abubakarorakzai&theme=dracula&no-frame=true&margin-w=15" alt="trophies" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -29,8 +23,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakarorakzai&show_icons=true&theme=transparent&hide_border=true&card_width=400" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarorakzai&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=400" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakarorakzai&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarorakzai&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarorakzai&theme=transparent&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarorakzai&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
